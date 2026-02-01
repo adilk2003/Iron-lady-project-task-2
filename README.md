@@ -1,4 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Ai Enrollement Manager project task 2 based on Iron lady Company
 
+Demo Video :
+https://drive.google.com/file/d/14Pwg9F3iPcpGzVFPp6kRUGrlFEayyjET/view?usp=drive_link
