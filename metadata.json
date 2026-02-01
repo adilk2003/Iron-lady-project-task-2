@@ -1,0 +1,5 @@
+{
+  "name": "Iron Lady Enrollment Manager",
+  "description": "A professional web dashboard for managing program participants, tracking performance metrics, and monitoring recent enrollment activities with full CRUD capabilities.",
+  "requestFramePermissions": []
+}
